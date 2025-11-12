@@ -278,7 +278,7 @@ footer a.cgv {
   margin-top: 20px;
   width: 100%;
   padding: 12px;
-  background-color: #007BFF;
+  background-color:#ADD981;
   color: white;
   border: none;
   border-radius: 4px;
@@ -287,5 +287,5 @@ footer a.cgv {
 }
 
 .contact-form button:hover {
-  background-color: #0056b3;
+  background-color: bisque;
 }
