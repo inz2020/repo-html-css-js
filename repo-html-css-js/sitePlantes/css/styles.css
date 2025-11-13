@@ -56,8 +56,6 @@ section.top-page {
 
 
 /* Une flexbox est une boite qui va contenir des items; des items qui peuvent se mettre en colones ou en lignes, à gauche ou à droite */
-
-
 /* margin est un espace externe et padding pour espace interne */
 
 nav.nav {
@@ -74,6 +72,9 @@ nav.nav li a {
     color: white;
     text-transform: none;
      margin: 15px;
+}
+nav.nav li a:hover{
+    color:#108d2e
 }
 
 
